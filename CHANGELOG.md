@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-06)
+## Unreleased (2025-12-19)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`975697c`](https://github.com/stdlib-js/stdlib/commit/975697c99f123dbf8ca5943c877dd6d99740af02) - **docs:** update return annotations to use ndarray instance notation for `stats/range` [(#9246)](https://github.com/stdlib-js/stdlib/pull/9246) _(by Samarth Kolarkar)_
 -   [`120e209`](https://github.com/stdlib-js/stdlib/commit/120e2092781bcc3db496f02c5882d7e0ec735e94) - **docs:** update examples in `stats/range` [(#8828)](https://github.com/stdlib-js/stdlib/pull/8828) _(by Sachin Pangal)_
 -   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
 -   [`e6b2007`](https://github.com/stdlib-js/stdlib/commit/e6b200700c411f81de9a89334950f57099971014) - **docs:** update examples _(by Athan Reines)_
@@ -39,12 +40,13 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
 -   Philipp Burckhardt
 -   Sachin Pangal
+-   Samarth Kolarkar
 
 </section>
 
