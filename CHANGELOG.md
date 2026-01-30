@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-19)
+## Unreleased (2026-01-30)
 
 <section class="features">
 
@@ -22,6 +22,10 @@
 
 <details>
 
+-   [`50af83b`](https://github.com/stdlib-js/stdlib/commit/50af83bcaa184b672be143271ee32f0b9fba06e1) - **docs:** update copy _(by Athan Reines)_
+-   [`4b1efc6`](https://github.com/stdlib-js/stdlib/commit/4b1efc6552af03e1b7d260f6f10e7e042e7d68f6) - **docs:** update dtype type _(by Athan Reines)_
+-   [`ff435c0`](https://github.com/stdlib-js/stdlib/commit/ff435c01d291e9ef75429a026fb221b729aa4a07) - **docs:** update dtype type _(by Athan Reines)_
+-   [`d57045f`](https://github.com/stdlib-js/stdlib/commit/d57045fec3f0dab1790f3926fd31604724c81540) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`975697c`](https://github.com/stdlib-js/stdlib/commit/975697c99f123dbf8ca5943c877dd6d99740af02) - **docs:** update return annotations to use ndarray instance notation for `stats/range` [(#9246)](https://github.com/stdlib-js/stdlib/pull/9246) _(by Samarth Kolarkar)_
 -   [`120e209`](https://github.com/stdlib-js/stdlib/commit/120e2092781bcc3db496f02c5882d7e0ec735e94) - **docs:** update examples in `stats/range` [(#8828)](https://github.com/stdlib-js/stdlib/pull/8828) _(by Sachin Pangal)_
 -   [`2192360`](https://github.com/stdlib-js/stdlib/commit/21923606030eb12678894c265023c6d265a89968) - **test:** explicitly serialize dtypes to strings _(by Athan Reines)_
