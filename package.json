@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-drange": "github:stdlib-js/stats-base-ndarray-drange#main",
     "@stdlib/stats-base-ndarray-range": "github:stdlib-js/stats-base-ndarray-range#main",
     "@stdlib/stats-base-ndarray-srange": "github:stdlib-js/stats-base-ndarray-srange#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
